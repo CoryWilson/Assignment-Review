@@ -1,0 +1,19 @@
+/************
+Cory Wilson
+WPF Section 1
+CSS
+************/
+
+body {
+  font-family: verdana, sans-serif;
+  color: #000000;
+  background-color: #eaf135;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+h2 {
+  font-size: 3em;
+}
